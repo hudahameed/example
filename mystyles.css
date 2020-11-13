@@ -1,0 +1,52 @@
+
+body
+	{
+	background-color:#C0C0C0;
+	}
+
+	
+table
+	{
+	width:100%;
+	
+	background-color:cyan;
+
+	}
+
+th
+	{
+	font-family:"Arial Black", Helvetica, sanserif;
+	font-size: 30px;
+	height:70px
+	}
+img	
+	{
+	border:1px solid red;
+	margin-right: 5px;
+	float: left;
+	}
+.containmenu
+	{
+	vertical-align: top;
+	}
+.contentcell	
+	{	
+	vertical-align: top;
+	background-color:white;
+	height:800px;
+	padding: 5px;
+	}
+.menutable
+	{
+	border-spacing:15px;
+	}
+
+.menucell
+	{
+	background-color:#f0f0f0;
+	border:2px solid blue;
+	color:red;
+	font-size:22px;
+	font-family:"Times New Roman", Times, serif;
+	}
+	
